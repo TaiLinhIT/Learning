@@ -1,0 +1,3 @@
+-change directory by comment terminal
+
+C:\Users\anthony>cd /D D:
