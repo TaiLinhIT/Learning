@@ -1,3 +1,9 @@
 -change directory by comment terminal
 
-C:\Users\anthony>cd /D D:
++ C:\Users\anthony>cd /D D:
+
+-When create repository in github
++create README.md: echo >>README.md
++change default branch: git branch -M main
++Remote github: git remote add origin link_github
++Add branch default to github: git push -u origin main
